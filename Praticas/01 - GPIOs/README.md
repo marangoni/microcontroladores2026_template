@@ -20,6 +20,22 @@ O objetivo desta prática não é apenas executar os programas, mas também dese
 - organização do programa;
 - processo de simulação e depuração.
 
+## Ambiente de programação
+
+Existem as seguintes opções:
+
+- **Instalar o MPLAB X no notebook pessoal** ou utilizar a versão instalada nos computadores do IFSP  
+  - **Alternativa:** Microchip Studio
+
+- **Utilizar o Arduino IDE** para edição e compilação dos programas em C  
+  - Consulte o documento de orientação disponibilizado pelo professor para esta opção
+
+## Simulador: SimulIDE
+
+- Baixar, a partir do site oficial, a versão mais recente (**1.1.2 ou superior**)
+- Extrair o arquivo baixado
+- Executar o programa localmente na sua área de downloads
+
 ## Exercícios
 
 Os exemplos que deverão ser refeitos são:
@@ -34,6 +50,19 @@ Os exemplos que deverão ser refeitos são:
 8. **Contador 0 a 9 temporizado**
 9. **Contador 0 a 9 temporizado com vetor**
 10. **Debouncing**
+
+## Estrutura dos exercícios
+
+- `ex01_saida_pino`
+- `ex02_entrada_pino`
+- `ex03_entrada_pullup`
+- `ex04_le_portd_escreve_portb`
+- `ex05_display_7_segmentos`
+- `ex06_blink_delay`
+- `ex07_botao_pd0_blink`
+- `ex08_contador_0_9_temporizado`
+- `ex09_contador_0_9_vetor`
+- `ex10_debouncing`
 
 ## Organização da atividade
 

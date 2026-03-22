@@ -1,0 +1,23 @@
+# Arquivos temporários
+*.o
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+
+# Pastas de build
+build/
+dist/
+Debug/
+Release/
+
+# Arquivos de editor
+.vscode/
+.idea/
+*.swp
+*~
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
